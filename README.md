@@ -84,7 +84,3 @@ The application handles common errors such as 404 (page not found) and 500 (inte
 ## Contributions
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes you would like to make.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
